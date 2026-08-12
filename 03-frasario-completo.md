@@ -118,3 +118,28 @@
 | Nice rhythm! Let's slow it down a bit. | Que ritmo legal! Vamos deixar mais devagar. |
 
 > Pronúncia dessas e outras palavras de música: veja a seção "Música" no [Dicionário de Pronúncia](dicionario-pronuncia.md).
+
+## Música para Praticar: "Three Little Birds" (Bob Marley)
+
+Música simples, cantável e cheia de frasário casual — boa pra unir prática de
+conversa cotidiana com a meta de cantar. Ouça a versão oficial e busque a
+letra completa em plataformas como Genius ou letras.mus.br pesquisando
+"Bob Marley Three Little Birds" (a letra completa não é reproduzida aqui por
+direitos autorais).
+
+**Trecho de referência (2 versos, uso didático):**
+> "Don't worry about a thing / 'Cause every little thing gonna be all right."
+
+### Por que esse trecho casa com o frasário cotidiano
+
+| Trecho | Conexão com o frasário acima | Observação |
+|---|---|---|
+| "Don't worry about a thing" | Registro casual, tipo "It helps me unwind after work." | Imperativo negativo informal — "a thing" reforça "nada" de forma coloquial. |
+| "gonna be all right" | Contraste com o registro de reunião ("This ensures that...") | "gonna" é a forma falada de "going to" — futuro informal comum em música e conversa do dia a dia, evite em reunião formal. |
+
+### Prática sugerida
+- Cante o refrão prestando atenção no "gonna" (reduzido, não "go-ing tu").
+- Reescreva o refrão em registro formal, como se fosse tranquilizar o time
+  num incidente: "Don't worry, we've identified the root cause and
+  everything will be fine." — conectando com "Imprevistos e incidentes
+  técnicos" acima.
