@@ -6,7 +6,7 @@
 
 ### A1. Passado simples para narrar eventos
 
-Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no passado.
+Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no passado — não só o primeiro verbo da frase.
 
 | Inglês | Português |
 |---|---|
@@ -14,8 +14,23 @@ Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no
 | She asked me about the architecture. | Ela me perguntou sobre a arquitetura. |
 | We chose the strategy pattern. | Escolhemos o padrão strategy. |
 | They discovered the issue using Dynatrace. | Eles descobriram o problema usando o Dynatrace. |
+| I opened my laptop, checked the alerts, and found nothing wrong. | Abri o notebook, verifiquei os alertas e não encontrei nada de errado. |
+
+**Atenção:** repare na última frase — três verbos (*opened*, *checked*, *found*), os três no passado. Numa frase com "and" ou vírgulas encadeando ações, é comum lembrar de mudar só o primeiro verbo e esquecer o segundo/terceiro.
 
 **Dica:** muitos verbos comuns são irregulares (choose→chose, sing→sang, go→went) — revise aos poucos.
+
+**Exemplos por contexto, pra aproximar da fluência** (repare que cada frase tem mais de um verbo, todos no passado):
+
+| Contexto | Inglês | Português |
+|---|---|---|
+| Trabalho | I reviewed the code, chose the Strategy pattern instead of if-else, and explained my reasoning to the team. | Revisei o código, escolhi o padrão Strategy em vez de if-else, e expliquei meu raciocínio pro time. |
+| Reunião | I joined the call five minutes late, apologized to the team, and walked them through the incident timeline. | Entrei na call cinco minutos atrasado, pedi desculpas ao time, e expliquei a linha do tempo do incidente. |
+| Viagem | We landed in Lisbon, checked into the hotel, and walked around the old town until sunset. | Pousamos em Lisboa, fizemos check-in no hotel, e caminhamos pelo centro histórico até o pôr do sol. |
+| História (contando um caso) | When I was a kid, I broke my arm while riding my bike and cried the whole way to the hospital. | Quando eu era criança, quebrei o braço andando de bicicleta e chorei o caminho todo até o hospital. |
+| Atividades físicas | I went for a run this morning, stretched afterward, and felt great for the rest of the day. | Corri hoje de manhã, alonguei depois, e me senti ótimo pelo resto do dia. |
+| Hobbies (música) | I practiced the drums for thirty minutes, recorded myself, and sent the video to my brother. | Pratiquei bateria por trinta minutos, me gravei, e mandei o vídeo pro meu irmão. |
+| Lazer | On Saturday, I woke up late, watched a movie with my family, and didn't check my phone once. | No sábado, acordei tarde, assisti a um filme com a família, e não olhei o celular nenhuma vez. |
 
 ### A1.1 Verbos irregulares mais comuns para narrar 🆕 *11/ago/2026*
 
