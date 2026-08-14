@@ -36,25 +36,27 @@ Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no
 
 Não tem lógica sonora pra deduzir aqui — é decoreba com repetição, e é o que mais trava uma narrativa corrida, porque toda frase no passado esbarra neles. A tabela agora traz as 4 formas de cada verbo — base, passado, particípio (pro Present Perfect da seção F3) e gerúndio (pro A2 e F2) — porque decorar as 4 juntas evita ter que voltar aqui toda vez que o tempo verbal muda.
 
-| Base | Past Simple | Past Participle | Gerúndio (-ing) | Nota |
+Na coluna de nota, cada verbo tem um exemplo por tempo verbal (presente, passado, presente perfeito com o particípio, e presente contínuo com o gerúndio) — é o mesmo verbo passeando pelos tempos que você já estudou nas seções A1, F1, F2 e F3.
+
+| Base | Past Simple | Past Participle | Gerúndio (-ing) | Nota (um exemplo por tempo verbal) |
 |---|---|---|---|---|
-| go | went | gone | going | — |
-| have | had | had | having | — |
-| do | did | done | doing | — |
-| take | took | taken | taking | — |
-| write | wrote | written | writing | — |
-| choose | chose | chosen | choosing | — |
-| see | saw | seen | seeing | — |
-| get | got | gotten / got | getting | "gotten" é o padrão americano; "got" é o britânico. |
-| make | made | made | making | — |
-| come | came | come | coming | — |
-| read | read | read | reading | Mesma grafia nas 3 formas — só a pronúncia do passado/particípio muda (rima com "red", não "need"). |
-| find | found | found | finding | Usado em "I found the bug yesterday" (F6). |
-| break | broke | broken | breaking | Usado em "I broke my arm" (exemplo de História, A1). |
-| feel | felt | felt | feeling | Usado em "I felt great" (exemplo de Atividades físicas, A1). |
-| send | sent | sent | sending | Usado em "I sent the video" (exemplo de Hobbies, A1). |
-| wake | woke | woken | waking | Usado em "I woke up late" (exemplo de Lazer, A1). |
-| sing | sang | sung | singing | Citado desde a primeira versão da dica acima — agora com a conjugação completa. |
+| go | went | gone | going | Pres: I go to the gym on Mondays.<br>Past: I went to the office yesterday.<br>Perfect: I've gone there before.<br>Contínuo: I'm going to the meeting now. |
+| have | had | had | having | Pres: I have two kids.<br>Past: I had a meeting today.<br>Perfect: I've had this laptop for years.<br>Contínuo: I'm having trouble with this bug. |
+| do | did | done | doing | Pres: I do the deploys on Fridays.<br>Past: I did the deploy yesterday.<br>Perfect: I've done this before.<br>Contínuo: I'm doing the code review now. |
+| take | took | taken | taking | Pres: I take the bus to work.<br>Past: I took a short break.<br>Perfect: I've taken this approach before.<br>Contínuo: I'm taking notes during the call. |
+| write | wrote | written | writing | Pres: I write documentation every week.<br>Past: I wrote the report yesterday.<br>Perfect: I've written three tests today.<br>Contínuo: I'm writing the postmortem. |
+| choose | chose | chosen | choosing | Pres: I usually choose the simplest option.<br>Past: I chose the Strategy pattern.<br>Perfect: I've chosen this library before.<br>Contínuo: I'm choosing between two approaches. |
+| see | saw | seen | seeing | Pres: I see the pattern here.<br>Past: I saw the bug in the logs.<br>Perfect: I've seen this error before.<br>Contínuo: I'm seeing an improvement already. |
+| get | got | gotten / got | getting | Pres: I get alerts every night.<br>Past: I got the fix deployed.<br>Perfect: I've gotten used to this codebase.<br>Contínuo: I'm getting better at Kubernetes.<br>("gotten" é o padrão americano; "got" é o britânico.) |
+| make | made | made | making | Pres: I make backups daily.<br>Past: I made a small mistake.<br>Perfect: I've made this change before.<br>Contínuo: I'm making progress on this. |
+| come | came | come | coming | Pres: I come to the office on Tuesdays.<br>Past: I came in early today.<br>Perfect: I've come a long way with this codebase.<br>Contínuo: I'm coming to the meeting. |
+| read | read | read | reading | Pres: I read the docs every morning.<br>Past: I read the documentation yesterday.<br>Perfect: I've read this thread already.<br>Contínuo: I'm reading the incident report.<br>(Mesma grafia nas 3 formas — só a pronúncia do passado/particípio muda, rima com "red", não "need".) |
+| find | found | found | finding | Pres: I find bugs faster with good logs.<br>Past: I found the bug yesterday.<br>Perfect: I've found the root cause.<br>Contínuo: I'm finding this pattern useful. |
+| break | broke | broken | breaking | Pres: This code breaks under heavy load.<br>Past: I broke my arm as a kid.<br>Perfect: I've broken this rule before.<br>Contínuo: I'm breaking this into smaller tasks. |
+| feel | felt | felt | feeling | Pres: I feel confident about this fix.<br>Past: I felt great after the run.<br>Perfect: I've felt this way before.<br>Contínuo: I'm feeling better today. |
+| send | sent | sent | sending | Pres: I send status updates daily.<br>Past: I sent the video to my brother.<br>Perfect: I've sent the fix already.<br>Contínuo: I'm sending the report now. |
+| wake | woke | woken | waking | Pres: I wake up early on weekdays.<br>Past: I woke up late on Saturday.<br>Perfect: I've woken up before the alarm.<br>Contínuo: I'm waking up right now. |
+| sing | sang | sung | singing | Pres: I sing with my kids on weekends.<br>Past: I sang at the family party.<br>Perfect: I've sung this song before.<br>Contínuo: I'm singing along right now. |
 
 > **Exemplo real seu:** "I readed the documentation" está errado — "readed" é a lógica certa (base + ed) aplicada no verbo errado. O correto é **"I read the documentation yesterday."**
 
