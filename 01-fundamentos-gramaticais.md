@@ -18,6 +18,8 @@ Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no
 
 **Atenção:** repare na última frase — três verbos (*opened*, *checked*, *found*), os três no passado. Numa frase com "and" ou vírgulas encadeando ações, é comum lembrar de mudar só o primeiro verbo e esquecer o segundo/terceiro.
 
+**Atenção 2:** "using Dynatrace" na frase acima NÃO é passado — é gerúndio descrevendo COMO a ação aconteceu (equivalente a "by using Dynatrace", com o "by" implícito). É prima da regra explicada em A2.1 mais abaixo (preposição + gerúndio) — só que aqui a preposição fica subentendida.
+
 **Dica:** muitos verbos comuns são irregulares (choose→chose, sing→sang, go→went) — revise aos poucos.
 
 **Exemplos por contexto, pra aproximar da fluência** (repare que cada frase tem mais de um verbo, todos no passado):
@@ -88,6 +90,26 @@ Quando uma ação é o sujeito da frase, ou está sendo comparada a outra (depoi
 | Practicing every day is better than practicing once a week. | Praticar todo dia é melhor do que praticar uma vez por semana. |
 
 **Dica:** repare que "than" e "instead of" pedem gerúndio dos dois lados quando comparam ações — "instead of guessing" tem que ser gerúndio assim como "monitoring" é.
+
+### A2.1 Regra geral: depois de QUALQUER preposição, o verbo vai pro gerúndio 🆕
+
+"Instead of" (acima) é só um caso particular de uma regra bem mais ampla: depois de qualquer preposição (about, after, before, by, for, of, since, while, without...), o próximo verbo SEMPRE vai pro gerúndio — nunca pro infinitivo com "to". Essa regra já apareceu duas vezes no documento sem explicação:
+
+| Onde já apareceu | Frase | Preposição + gerúndio |
+|---|---|---|
+| A1, exemplo de História | ...while riding my bike... | while + riding |
+| E2 | The patterns are about separating logic. | about + separating |
+
+Mais exemplos, pro seu contexto:
+
+| Inglês | Português |
+|---|---|
+| I fixed the bug by adding a null check. | Corrigi o bug adicionando uma verificação de nulo. |
+| We reduced latency without changing the architecture. | Reduzimos a latência sem mudar a arquitetura. |
+| Thanks for explaining the incident so clearly. | Obrigado por explicar o incidente tão claramente. |
+| I learned a lot from debugging this issue. | Aprendi bastante debugando esse problema. |
+
+**Contraste com infinitivo:** "to fix" nunca vem colado direto numa preposição. "for to fix" está errado; "for fixing" está certo — a preposição "escolhe" o gerúndio, sempre.
 
 ### A3. "To be" para expressar idade
 
