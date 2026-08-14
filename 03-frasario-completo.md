@@ -143,3 +143,93 @@ direitos autorais).
   num incidente: "Don't worry, we've identified the root cause and
   everything will be fine." — conectando com "Imprevistos e incidentes
   técnicos" acima.
+
+## Pronúncia do Frasário — Fala Conectada
+
+As frases acima você já lê bem. O que costuma travar é que, na fala real, um
+nativo não pronuncia palavra por palavra — ele gruda, reduz e engole sons
+("what do you" vira algo perto de "whaddaya"). Essa seção pega as frases mais
+usadas de cada bloco acima e mostra como elas realmente soam faladas rápido,
+não a versão "de dicionário". Para pronúncia palavra a palavra, use o
+[Dicionário de Pronúncia](dicionario-pronuncia.md) — aqui o foco é a frase
+inteira.
+
+**Como ler:** a "Pronúncia conectada" é uma aproximação em grafia parecida
+com português; o IPA é a referência precisa; a "Dica" explica o que está
+acontecendo na fala (redução, ligação entre palavras, etc.).
+
+### Reduções essenciais (aparecem em quase toda frase falada)
+
+| Forma escrita | Forma falada | IPA | Exemplo de uso |
+|---|---|---|---|
+| going to | gonna | /ˈɡɒnə/ | I'm gonna check the logs. |
+| want to | wanna | /ˈwɒnə/ | I wanna confirm one thing first. |
+| got to / have got to | gotta | /ˈɡɒtə/ | I gotta join another call. |
+| have to | hafta | /ˈhæftə/ | I hafta finish this today. |
+| kind of | kinda | /ˈkaɪndə/ | It's kinda hard to explain. |
+| let me | lemme | /ˈlɛmi/ | Lemme check that for you. |
+| give me | gimme | /ˈɡɪmi/ | Gimme a second. |
+| out of | outta | /ˈaʊtə/ | We're outta time. |
+| because | 'cause | /kəz/ | I'm late, 'cause traffic was crazy. |
+
+**Atenção:** essas formas são para ouvir e reconhecer sempre, mas só usar
+falando em contexto casual — numa reunião de trabalho, prefira a forma
+escrita completa ("going to", "want to").
+
+### Cotidiano e apresentações
+
+| Frase | Pronúncia conectada | IPA | O que acontece |
+|---|---|---|---|
+| What do you do for a living? | UÁ-djâ du fôr â LÍ-vin? | /ˈwʌdjə duː fɔːr ə ˈlɪvɪŋ/ | "what do you" gruda em "whaddya". |
+| Nice to meet you. | NÁIS-tâ-MÍT-chu. | /naɪs tə ˈmiːtʃuː/ | "to" reduz; "t"+"you" vira som de "tch". |
+| What do you do in your free time? | UÁ-djâ du in yâr fri táim? | /ˈwʌdjə duː ɪn jər friː taɪm/ | Mesma redução de "what do you"; "your" fica fraco (yâr). |
+| How's it going? | RRÁU-zit GÔ-in? | /ˈhaʊzɪt ˈɡoʊɪŋ/ | "How's it" gruda como se fosse uma palavra só. |
+
+### Hobbies e tempo livre
+
+| Frase | Pronúncia conectada | IPA | O que acontece |
+|---|---|---|---|
+| I've been learning keyboard for a few months. | AIV bin LÊR-nin KÍ-bord fâ-râ fiu MÂNTHS. | /aɪv bɪn ˈlɜːrnɪŋ ˈkiːbɔːrd fərə fjuː mʌnθs/ | "for a" gruda em "fâ-râ"; "been" fica bem fraco (bin). |
+| It helps me unwind after work. | it RRÉLPS mi ân-UÁIND ÉF-târ uôrk. | /ɪt hɛlps miː ʌnˈwaɪnd ˈæftər wɜːrk/ | Stress em "wind", não em "un". |
+
+### Pedindo ajuda / informação
+
+| Frase | Pronúncia conectada | IPA | O que acontece |
+|---|---|---|---|
+| Could you help me? | CÚD-jâ rrélp mi? | /ˈkʊdʒə hɛlp miː/ | "Could you" vira "cudja" — "d"+"y" vira "dj". Acontece toda vez que "could/would/did you" aparecem juntos. |
+| Could you speak more slowly, please? | CÚD-jâ spík mor SLÔU-li, plíz? | /ˈkʊdʒə spiːk mɔːr ˈsloʊli pliːz/ | Mesma redução de "could you". |
+
+### Viagem, hotel e restaurante
+
+| Frase | Pronúncia conectada | IPA | O que acontece |
+|---|---|---|---|
+| Could I see the menu, please? | cu-DÁI si dhâ MÉ-niu, plíz? | /kʊˈdaɪ siː ðə ˈmɛnjuː pliːz/ | "Could I" liga como uma palavra só. |
+| Can I get the check, please? | CÂ-nai guét-dhâ TCHÉK, plíz? | /kənaɪ ˈɡɛt ðə tʃɛk pliːz/ | "Can I" liga; "get the" quase vira "ge'the". |
+| What time is checkout? | uât-taim-iz TCHÉK-aut? | /wʌt taɪm ɪz ˈtʃɛkaʊt/ | "time is" liga sem pausa. |
+
+### Trabalho e reuniões
+
+| Frase | Pronúncia conectada | IPA | O que acontece |
+|---|---|---|---|
+| I'd like to walk you through... | aid láik-tâ UÓK-iu thru... | /aɪd laɪk tə wɔːk juː θruː/ | "to" reduz pra "tâ" (schwa fraco). |
+| I chose this approach because... | ai TCHÔZ dhis â-PRÔTCH câz... | /aɪ ˈtʃoʊz ðɪs əˈproʊtʃ kəz/ | "because" reduz pra "câz" em fala corrida — mas escreva por extenso. |
+| Let's dive into the details. | léts dáiv IN-tâ-dhâ di-TÊILZ. | /lɛts daɪv ˈɪntə ðə dɪˈteɪlz/ | "into the" gruda numa sequência só. |
+| I'll follow up on that by email. | ail FÁ-lô-âp on dhét bai Í-mêiu. | /aɪl ˈfɑːloʊ ʌp ɒn ðæt baɪ ˈiːmeɪl/ | "follow up on" liga sem pausas entre as palavras. |
+
+### Imprevistos e incidentes técnicos
+
+| Frase | Pronúncia conectada | IPA | O que acontece |
+|---|---|---|---|
+| We're looking into it. | uír LÚ-kin IN-tu-it. | /wɪr ˈlʊkɪŋ ˈɪntu ɪt/ | "into it" liga tão forte que soa uma palavra só. |
+| We've identified the root cause. | uív ai-DÉN-ti-faid dhâ rút cóz. | /wiːv aɪˈdɛntɪfaɪd ðə ruːt kɔːz/ | "We've" — não separe em "we have" na fala corrida. |
+
+### Vocabulário musical
+
+| Frase | Pronúncia conectada | IPA | O que acontece |
+|---|---|---|---|
+| Let's keep the beat steady. | léts kíp-dhâ bít STÉ-di. | /lɛts kiːp ðə biːt ˈstɛdi/ | "keep the" liga sem pausa. |
+| That was in tune / out of tune. | dhét uâz in TÚN / áu-tâ TÚN. | /ðæt wʌz ɪn tuːn / ˈaʊtə tuːn/ | "out of" reduz pra "outta", igual à tabela de reduções essenciais. |
+
+> Pra treinar o ouvido nessas reduções com áudio real (recomendado): busque
+> qualquer uma dessas frases no Forvo.com ou no YouGlish.com, que mostra a
+> frase sendo usada em vídeos reais.
