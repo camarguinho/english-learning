@@ -58,8 +58,6 @@ Na coluna de nota, cada verbo tem um exemplo por tempo verbal (presente, passado
 | wake | woke | woken | waking | Pres: I wake up early on weekdays.<br>Past: I woke up late on Saturday.<br>Perfect: I've woken up before the alarm.<br>Contínuo: I'm waking up right now. |
 | sing | sang | sung | singing | Pres: I sing with my kids on weekends.<br>Past: I sang at the family party.<br>Perfect: I've sung this song before.<br>Contínuo: I'm singing along right now. |
 
-> **Exemplo real seu:** "I readed the documentation" está errado — "readed" é a lógica certa (base + ed) aplicada no verbo errado. O correto é **"I read the documentation yesterday."**
-
 ### A1.2 As três estruturas de frase no passado
 
 Aqui mora a pegadinha mais comum pra quem vem do português.
