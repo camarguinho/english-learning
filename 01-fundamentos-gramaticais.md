@@ -34,21 +34,27 @@ Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no
 
 ### A1.1 Verbos irregulares mais comuns para narrar 🆕 *11/ago/2026*
 
-Não tem lógica sonora pra deduzir aqui — é decoreba com repetição, e é o que mais trava uma narrativa corrida, porque toda frase no passado esbarra neles.
+Não tem lógica sonora pra deduzir aqui — é decoreba com repetição, e é o que mais trava uma narrativa corrida, porque toda frase no passado esbarra neles. A tabela agora traz as 4 formas de cada verbo — base, passado, particípio (pro Present Perfect da seção F3) e gerúndio (pro A2 e F2) — porque decorar as 4 juntas evita ter que voltar aqui toda vez que o tempo verbal muda.
 
-| Base | Passado | Pronúncia aproximada | Nota |
-|---|---|---|---|
-| go | went | UÊNT | — |
-| have | had | RRÉD | — |
-| do | did | DID | — |
-| take | took | TUK | — |
-| write | wrote | RÓT | — |
-| choose | chose | TCHÔZ | — |
-| see | saw | SÓ | — |
-| get | got | GÓT | — |
-| make | made | MÊID | — |
-| come | came | KÊIM | — |
-| read (presente) | read (passado) | RÍD → RÉD | Mesma grafia, pronúncia muda! O passado rima com "red" (a cor), não com "need". |
+| Base | Past Simple | Past Participle | Gerúndio (-ing) | Nota |
+|---|---|---|---|---|
+| go | went | gone | going | — |
+| have | had | had | having | — |
+| do | did | done | doing | — |
+| take | took | taken | taking | — |
+| write | wrote | written | writing | — |
+| choose | chose | chosen | choosing | — |
+| see | saw | seen | seeing | — |
+| get | got | gotten / got | getting | "gotten" é o padrão americano; "got" é o britânico. |
+| make | made | made | making | — |
+| come | came | come | coming | — |
+| read | read | read | reading | Mesma grafia nas 3 formas — só a pronúncia do passado/particípio muda (rima com "red", não "need"). |
+| find | found | found | finding | Usado em "I found the bug yesterday" (F6). |
+| break | broke | broken | breaking | Usado em "I broke my arm" (exemplo de História, A1). |
+| feel | felt | felt | feeling | Usado em "I felt great" (exemplo de Atividades físicas, A1). |
+| send | sent | sent | sending | Usado em "I sent the video" (exemplo de Hobbies, A1). |
+| wake | woke | woken | waking | Usado em "I woke up late" (exemplo de Lazer, A1). |
+| sing | sang | sung | singing | Citado desde a primeira versão da dica acima — agora com a conjugação completa. |
 
 > **Exemplo real seu:** "I readed the documentation" está errado — "readed" é a lógica certa (base + ed) aplicada no verbo errado. O correto é **"I read the documentation yesterday."**
 
