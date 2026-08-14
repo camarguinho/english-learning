@@ -82,6 +82,12 @@ Quando uma ação é o sujeito da frase, ou está sendo comparada a outra (depoi
 | The hardest part is adjusting the content. | A parte mais difícil é ajustar o conteúdo. |
 | Reading documentation helps a lot. | Ler a documentação ajuda muito. |
 | Testing each strategy independently is important. | Testar cada estratégia de forma independente é importante. |
+| We chose the Strategy pattern instead of writing nested if-else statements. | Escolhemos o padrão Strategy em vez de escrever if-else aninhados. |
+| Monitoring the logs instead of guessing saved us time. | Monitorar os logs em vez de chutar nos poupou tempo. |
+| Debugging this issue took the whole morning. | Debugar esse problema tomou a manhã toda. |
+| Practicing every day is better than practicing once a week. | Praticar todo dia é melhor do que praticar uma vez por semana. |
+
+**Dica:** repare que "than" e "instead of" pedem gerúndio dos dois lados quando comparam ações — "instead of guessing" tem que ser gerúndio assim como "monitoring" é.
 
 ### A3. "To be" para expressar idade
 
@@ -104,6 +110,24 @@ Diferente do português ("ter" X anos), idade sempre usa o verbo "to be".
 | She likes playing keyboard. | Ela gosta de tocar teclado. |
 | We like going to the park. | Gostamos de ir ao parque. |
 | Do you like this restaurant? | Você gosta desse restaurante? |
+
+**Atenção:** repare que "playing" e "going" estão no gerúndio, mas isso NÃO é a regra de A2 (verbo como sujeito/comparação) — "playing keyboard" e "going to the park" não são sujeito nem estão em comparação aqui. É uma regra diferente, explicada em A4.1 a seguir.
+
+### A4.1 Outros verbos que "puxam" o gerúndio (-ing) 🆕
+
+Alguns verbos, principalmente os que expressam gosto, hábito ou preferência, são naturalmente seguidos pelo próximo verbo no gerúndio — o gatilho aqui é o verbo anterior, não a posição da ação na frase (essa é a diferença pra regra de A2).
+
+| Verbo-gatilho | Inglês | Português |
+|---|---|---|
+| like | I like practicing drums with my son. | Gosto de praticar bateria com meu filho. |
+| love | She loves learning new songs on keyboard. | Ela adora aprender músicas novas no teclado. |
+| enjoy | I enjoy reviewing code early in the morning. | Gosto de revisar código de manhã cedo. |
+| hate | I hate debugging on Friday afternoons. | Odeio debugar na sexta à tarde. |
+| avoid | We avoid deploying on Fridays. | Evitamos fazer deploy nas sextas. |
+| keep | The service keeps failing after the update. | O serviço continua falhando depois da atualização. |
+| consider | I'm considering migrating this service to Kubernetes. | Estou considerando migrar esse serviço pro Kubernetes. |
+
+**Sobre "like" especificamente:** ele aceita as duas formas — "I like playing" e "I like to play" — ambas corretas e com sentido bem parecido; o gerúndio soa mais natural quando você fala de gosto ou hábito geral. Já "enjoy", "avoid" e "keep" praticamente só aceitam gerúndio — "I enjoy to review" está errado, tem que ser "I enjoy reviewing".
 
 ### A5. "Need to" + verbo
 
