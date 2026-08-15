@@ -204,6 +204,38 @@ Depois de "need", sempre vem "to" antes do próximo verbo.
 
 ## C. Preposições Fixas
 
+### C0. A lógica espacial por trás das preposições 🆕
+
+Preposição é a palavra que diz onde uma coisa está **em relação** à outra — literalmente "pré-posição", posição relativa. A forma mais fácil de sentir isso é pensando em espaço físico: uma bola e uma caixa.
+
+| Relação física | Inglês | Português |
+|---|---|---|
+| Dentro de um espaço | The ball is in the box. | A bola está dentro da caixa. |
+| Em cima de uma superfície | The ball is on the table. | A bola está em cima da mesa. |
+| Abaixo de algo | The ball is under the chair. | A bola está debaixo da cadeira. |
+| Ao lado de algo | The ball is next to the door. | A bola está do lado da porta. |
+| Um ponto exato, sem volume | Meet me at the entrance. | Me encontra na entrada. |
+
+O inglês pega essa MESMA lógica espacial e estica pra situações que não são fisicamente espaço nenhum — é aí que mora o padrão que mais confunde brasileiro, porque em português a gente usa "em" pra quase tudo ("em 2022", "na segunda", "no escritório") e o inglês obriga a escolher qual tipo de relação espacial é essa:
+
+| Extensão da lógica | Inglês | Português | Por quê |
+|---|---|---|---|
+| Ano/período grande → *in* (espaço contido) | I joined the team in 2022. | Entrei no time em 2022. | O ano é tratado como um espaço grande — você está "dentro" dele, igual "in the box". |
+| Mês → *in* | We're launching in December. | Vamos lançar em dezembro. | Mesmo raciocínio do ano. |
+| Dia específico → *on* (superfície) | I have a meeting on Monday. | Tenho uma reunião na segunda. | O dia é tratado como uma superfície — igual "on the table" (ver C2 logo abaixo). |
+| Data completa → *on* | The release is on July 10th. | O lançamento é dia 10 de julho. | Mesma lógica de superfície do dia. |
+| Horário exato → *at* (ponto) | The standup is at 9am. | A daily é às 9h. | Hora exata = ponto sem volume, igual "at the entrance". |
+| Assunto → *about* (em volta) | We talked about the migration. | Falamos sobre a migração. | "About" é literalmente "em torno de", rodeando o assunto. |
+| Meio/instrumento → *by* (através de) | I fixed it by restarting the pod. | Corrigi reiniciando o pod. | "By" indica o caminho/meio usado pra chegar no resultado. |
+| Direção/destino → *to* (rumo a) | We're moving to a new architecture. | Estamos migrando pra uma nova arquitetura. | "To" indica movimento em direção a um ponto. |
+
+**Dica prática — o trio que mais confunde (in / on / at):**
+- **in** = espaço grande e contido → ano, mês, cidade, país, cluster ("in 2022", "in Kubernetes")
+- **on** = superfície ou dia específico → mesa, tela, segunda-feira, data ("on the screen", "on Monday")
+- **at** = ponto exato, sem volume → hora, endereço específico, evento ("at 9am", "at the office")
+
+Guardando essa ideia — "espaço grande" vs. "superfície" vs. "ponto exato" — fica mais fácil escolher a preposição certa sem decorar frase por frase. As regras de C1 a C5 abaixo são casos específicos dessa mesma lógica.
+
 ### C1. Preposições que "grudam" em certos verbos
 
 | Inglês | Português |
