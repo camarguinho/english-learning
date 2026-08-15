@@ -100,14 +100,21 @@ Quando uma ação é o sujeito da frase, ou está sendo comparada a outra (depoi
 | A1, exemplo de História | ...while riding my bike... | while + riding |
 | E2 | The patterns are about separating logic. | about + separating |
 
-Mais exemplos, pro seu contexto:
+Um exemplo pra cada preposição comum, pro seu contexto:
 
-| Inglês | Português |
-|---|---|
-| I fixed the bug by adding a null check. | Corrigi o bug adicionando uma verificação de nulo. |
-| We reduced latency without changing the architecture. | Reduzimos a latência sem mudar a arquitetura. |
-| Thanks for explaining the incident so clearly. | Obrigado por explicar o incidente tão claramente. |
-| I learned a lot from debugging this issue. | Aprendi bastante debugando esse problema. |
+| Preposição | Inglês | Português |
+|---|---|---|
+| about | We talked about migrating the database. | Falamos sobre migrar o banco de dados. |
+| after | After deploying the fix, we monitored the logs for an hour. | Depois de fazer o deploy da correção, monitoramos os logs por uma hora. |
+| before | Before joining the call, I reviewed the incident timeline. | Antes de entrar na call, revisei a linha do tempo do incidente. |
+| by | You can reduce latency by caching frequent queries. | Você pode reduzir a latência fazendo cache das consultas frequentes. |
+| for | This tool is used for monitoring cluster health. | Essa ferramenta é usada para monitorar a saúde do cluster. |
+| of | I'm thinking of switching to a different testing framework. | Estou pensando em trocar de framework de testes. |
+| since | Since joining the team, I've learned a lot about Kubernetes. | Desde que entrei no time, aprendi bastante sobre Kubernetes. |
+| while | While waiting for the deploy, I reviewed the PR. | Enquanto esperava o deploy, revisei o PR. |
+| without | We can't fix this without understanding the root cause. | Não conseguimos corrigir isso sem entender a causa raiz. |
+
+**Nota sobre "since":** repare que a tradução usa "desde que entrei" (uma oração), mas em inglês "since" funciona como preposição direto antes do gerúndio — não precisa de sujeito repetido depois dela.
 
 **Contraste com infinitivo:** "to fix" nunca vem colado direto numa preposição. "for to fix" está errado; "for fixing" está certo — a preposição "escolhe" o gerúndio, sempre.
 
