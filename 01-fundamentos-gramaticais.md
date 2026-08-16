@@ -173,6 +173,21 @@ Alguns verbos, principalmente os que expressam gosto, hábito ou preferência, s
 
 **Sobre "like" especificamente:** ele aceita as duas formas — "I like playing" e "I like to play" — ambas corretas e com sentido bem parecido; o gerúndio soa mais natural quando você fala de gosto ou hábito geral. Já "enjoy", "avoid" e "keep" praticamente só aceitam gerúndio — "I enjoy to review" está errado, tem que ser "I enjoy reviewing".
 
+### A4.2 "Go" + gerúndio para atividades de lazer 🆕
+
+Pra atividades recreativas, o inglês usa um padrão fixo: **go + gerúndio**, sem "to" no meio. É um padrão diferente do A4.1 — aqui é sempre "go", e sempre um verbo específico de atividade.
+
+| Inglês | Português |
+|---|---|
+| We go traveling every summer. | Viajamos todo verão. |
+| I go running in the mornings. | Eu corro de manhã. *(lit.: vou correndo)* |
+| They go hiking on weekends. | Eles fazem trilha nos fins de semana. |
+| We go camping with the kids sometimes. | Às vezes acampamos com as crianças. |
+| She goes shopping on Saturdays. | Ela vai fazer compras aos sábados. |
+| Let's go swimming this weekend. | Vamos nadar esse fim de semana. |
+
+> **Exemplo real seu:** ❌ "I go to travel with my wife." → ✅ **"I go traveling with my wife."** (ou, mais simples, sem o "go": "I travel with my wife.")
+
 ### A5. "Need to" + verbo
 
 Depois de "need", sempre vem "to" antes do próximo verbo.
