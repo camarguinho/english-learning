@@ -76,6 +76,10 @@
 | This ensures/guarantees that... | Isso garante que... |
 | The main trade-off here is... | O principal trade-off aqui é... |
 | To summarize... | Resumindo... |
+| This violates/breaks the architecture rules. | Isso viola/quebra as regras de arquitetura. |
+| This tool validates whether the rules are being violated. | Essa ferramenta valida se as regras estão sendo violadas. |
+
+**Atenção:** regras, convenções e testes são **violated** ou **broken** — não "offended". "Offend" é sobre ofender uma pessoa, não sobre quebrar uma regra.
 
 ### Dúvidas, concordar e discordar
 

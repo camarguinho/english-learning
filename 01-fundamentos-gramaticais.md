@@ -118,6 +118,21 @@ Um exemplo pra cada preposição comum, pro seu contexto:
 
 **Contraste com infinitivo:** "to fix" nunca vem colado direto numa preposição. "for to fix" está errado; "for fixing" está certo — a preposição "escolhe" o gerúndio, sempre.
 
+### A2.2 Cuidado: nem todo "to" é preposição — depois de certos adjetivos, "to" pede infinitivo 🆕
+
+O "to" tem um papel duplo em inglês: às vezes é preposição (aí vale a regra de A2.1, gerúndio), às vezes é só o marcador de infinitivo (to + verbo na forma BASE). Depois de adjetivos como **able, ready, happy, hard, easy**, o "to" é infinitivo — nunca gerúndio.
+
+| Inglês | Português | Nota |
+|---|---|---|
+| This tool is able to detect violations automatically. | Essa ferramenta é capaz de detectar violações automaticamente. | "able to" + infinitivo — nunca "able to detecting". |
+| The framework is ready to validate the whole codebase. | O framework está pronto pra validar o código inteiro. | "ready to" + infinitivo. |
+| It's easy to break this rule by accident. | É fácil quebrar essa regra sem querer. | "easy to" + infinitivo. |
+| It's hard to explain this pattern in one sentence. | É difícil explicar esse padrão numa frase só. | "hard to" + infinitivo. |
+
+**Teste rápido pra diferenciar:** troque o que vem depois do "to" por um substantivo qualquer. Se o substantivo encaixa naturalmente, "to" é preposição (gerúndio). Se soa estranho e só um verbo encaixa, "to" é infinitivo (base).
+- "I'm looking forward **to** the weekend." → substantivo encaixa → preposição → gerúndio: "looking forward to seeing you."
+- "This tool is able **to** the weekend." ❌ → substantivo NÃO encaixa → infinitivo → base: "able to detect."
+
 ### A3. "To be" para expressar idade
 
 Diferente do português ("ter" X anos), idade sempre usa o verbo "to be".
@@ -311,6 +326,18 @@ Guardando essa ideia — "espaço grande" vs. "superfície" vs. "ponto exato" �
 | My wife and I like to travel. | Minha esposa e eu gostamos de viajar. |
 | He gave the report to Sarah and me. | Ele deu o relatório pra Sarah e pra mim. |
 | Between you and me, this was a great idea. | Só entre nós, isso foi uma ótima ideia. |
+
+### D4. Pronomes relativos: who / which / that 🆕
+
+Pra descrever ou dar mais informação sobre algo já citado, sem começar uma frase nova, use um pronome relativo — a escolha depende se você está falando de **pessoa** ou de **coisa**.
+
+| Pronome | Quando usar | Exemplo |
+|---|---|---|
+| who | Pessoas | The developer who reviewed my PR gave great feedback. |
+| which | Coisas, objetos, sistemas | This is the framework which validates architectural rules. |
+| that | Pessoas OU coisas (mais informal, aceito nos dois casos) | This is the tool that we use for monitoring. |
+
+**Atenção:** "with" não é pronome relativo, é preposição — não dá pra usar "with" no lugar de "which/that" pra introduzir uma explicação sobre uma coisa. ❌ "a framework with is able to..." → ✅ "a framework **which** is able to..."
 
 ## E. Comparações e Concordância Verbal
 
