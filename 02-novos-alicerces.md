@@ -208,7 +208,16 @@ If + passado, would + verbo. Usado pra situações hipotéticas, improváveis ou
 | exit = saída (não "êxito") | êxito = success |
 | intend = pretender/planejar (não "entender") | entender = to understand |
 | **assume = presumir/supor, sem confirmar** (não "assumir responsabilidade") 🆕 *11/ago/2026* | assumir (responsabilidade) = to take on / **to take over** |
+| **benefit(s) = vantagem, algo bom que você ganha** (não "benefice") 🆕 *14/ago/2026* | benefício (vantagem) = benefit(s) |
+| eventually = finalmente, no fim das contas (não "eventualmente") 🆕 *14/ago/2026* | eventualmente (às vezes, por acaso) = occasionally / possibly |
+| sensible = sensato, razoável (não "sensível") 🆕 *14/ago/2026* | sensível (emocional, físico) = sensitive |
+| notice = perceber / aviso (não "notícia") 🆕 *14/ago/2026* | notícia = news |
+| attend = comparecer, participar de algo (não "atender") 🆕 *14/ago/2026* | atender (responder, servir) = to answer / to serve |
 
 > **Exemplo real seu:** ❌ "I assumed my colleague's tasks." → ✅ **"I took over my colleague's tasks."** ("Assume" em inglês é presumir algo sem confirmar — "I assume it's fine" = eu imagino que está tudo bem — não tem nada a ver com assumir responsabilidade.)
+>
+> **Exemplo real seu:** ❌ "I showed them the benefices." → ✅ **"I showed them the benefits."** ("Benefice" existe em inglês, mas é raro e tem outro sentido — um cargo eclesiástico com renda, ligado à igreja. Nada a ver com "vantagem/benefício" no sentido comum, que é sempre "benefit(s)".)
+>
+> **Dica — "eventually" é uma pegadinha clássica em post-mortem:** "We eventually found the root cause" = "No fim das contas, encontramos a causa raiz" (depois de um processo). Não é "eventualmente" no sentido de "às vezes" — pra isso, use "occasionally" ou "sometimes".
 >
 > **Bônus — pronome:** cuidado com "yours" quando a tarefa não é sua. "I took over yours tasks" aponta a tarefa pra mim; se é do colega, o certo é **"I took over their tasks."** O inglês marca de quem é a coisa de um jeito mais explícito que o "seu/sua" do português, que serve pra qualquer pessoa.
