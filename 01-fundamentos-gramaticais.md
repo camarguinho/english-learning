@@ -2,9 +2,136 @@
 
 [⬅ Voltar ao Sumário](README.md)
 
-## A. Verbos — Tempo, Forma e Uso
+> **Nota de reorganização:** este documento foi reordenado pra seguir uma sequência de dependências — cada tópico agora vem DEPOIS de tudo que ele usa como pré-requisito (ex.: preposições antes de qualquer regra que precise delas; presente/passado/contínuo/perfeito antes da tabela de irregulares que combina os quatro). Se você guardou algum link antigo pro formato A1/B2/C3, os números mudaram — use o sumário abaixo pra se situar.
 
-### A1. Passado simples para narrar eventos
+## A. Bases para Toda Frase
+
+### A1. Sujeito explícito é obrigatório
+
+| Inglês | Português |
+|---|---|
+| It's my first time here. | É minha primeira vez aqui. |
+| It's raining today. | Está chovendo hoje. |
+| It's important to test this. | É importante testar isso. |
+| There are four of us at home. | Somos quatro em casa. |
+
+### A2. Artigos a / an / the
+
+"A/an" depende do SOM da palavra seguinte. "The" é para algo específico/conhecido; "a/an" para algo genérico.
+
+| Inglês | Português |
+|---|---|
+| I used a Java object. | Usei um objeto Java. (som de consoante) |
+| I waited an hour. | Esperei uma hora. (som de vogal) |
+| She used an LLM to generate the report. | Ela usou um LLM. ("el" = som de vogal) |
+| The number of bugs decreased this month. | O número de bugs diminuiu. (específico) |
+
+**Dica:** "another" é sempre uma palavra só — nunca "an other".
+
+## B. Preposições Fixas
+
+### B0. A lógica espacial por trás das preposições 🆕
+
+Preposição é a palavra que diz onde uma coisa está **em relação** à outra — literalmente "pré-posição", posição relativa. A forma mais fácil de sentir isso é pensando em espaço físico: uma bola e uma caixa.
+
+| Relação física | Inglês | Português |
+|---|---|---|
+| Dentro de um espaço | The ball is in the box. | A bola está dentro da caixa. |
+| Em cima de uma superfície | The ball is on the table. | A bola está em cima da mesa. |
+| Abaixo de algo | The ball is under the chair. | A bola está debaixo da cadeira. |
+| Ao lado de algo | The ball is next to the door. | A bola está do lado da porta. |
+| Um ponto exato, sem volume | Meet me at the entrance. | Me encontra na entrada. |
+
+O inglês pega essa MESMA lógica espacial e estica pra situações que não são fisicamente espaço nenhum — é aí que mora o padrão que mais confunde brasileiro, porque em português a gente usa "em" pra quase tudo ("em 2022", "na segunda", "no escritório") e o inglês obriga a escolher qual tipo de relação espacial é essa:
+
+| Extensão da lógica | Inglês | Português | Por quê |
+|---|---|---|---|
+| Ano/período grande → *in* (espaço contido) | I joined the team in 2022. | Entrei no time em 2022. | O ano é tratado como um espaço grande — você está "dentro" dele, igual "in the box". |
+| Mês → *in* | We're launching in December. | Vamos lançar em dezembro. | Mesmo raciocínio do ano. |
+| Dia específico → *on* (superfície) | I have a meeting on Monday. | Tenho uma reunião na segunda. | O dia é tratado como uma superfície — igual "on the table" (ver B2 logo abaixo). |
+| Data completa → *on* | The release is on July 10th. | O lançamento é dia 10 de julho. | Mesma lógica de superfície do dia. |
+| Horário exato → *at* (ponto) | The standup is at 9am. | A daily é às 9h. | Hora exata = ponto sem volume, igual "at the entrance". |
+| Assunto → *about* (em volta) | We talked about the migration. | Falamos sobre a migração. | "About" é literalmente "em torno de", rodeando o assunto. |
+| Meio/instrumento → *by* (através de) | I fixed it by restarting the pod. | Corrigi reiniciando o pod. | "By" indica o caminho/meio usado pra chegar no resultado. |
+| Direção/destino → *to* (rumo a) | We're moving to a new architecture. | Estamos migrando pra uma nova arquitetura. | "To" indica movimento em direção a um ponto. |
+
+**Dica prática — o trio que mais confunde (in / on / at):**
+- **in** = espaço grande e contido → ano, mês, cidade, país, cluster ("in 2022", "in Kubernetes")
+- **on** = superfície ou dia específico → mesa, tela, segunda-feira, data ("on the screen", "on Monday")
+- **at** = ponto exato, sem volume → hora, endereço específico, evento ("at 9am", "at the office")
+
+Guardando essa ideia — "espaço grande" vs. "superfície" vs. "ponto exato" — fica mais fácil escolher a preposição certa sem decorar frase por frase. As regras de B1 a B5 abaixo são casos específicos dessa mesma lógica.
+
+### B1. Preposições que "grudam" em certos verbos
+
+| Inglês | Português |
+|---|---|
+| This module focuses on performance. | Esse módulo foca em performance. |
+| These changes apply to the whole system. | Essas mudanças se aplicam a todo o sistema. |
+| I'm responsible for the backend team. | Sou responsável pelo time de backend. |
+| This is similar to the previous version. | Isso é parecido com a versão anterior. |
+
+### B2. "On" para dias e períodos recorrentes
+
+| Inglês | Português |
+|---|---|
+| We practice music on weekends. | Praticamos música nos fins de semana. |
+| I have a meeting on Monday. | Tenho uma reunião na segunda. |
+| It happens on holidays too. | Acontece nos feriados também. |
+| I usually code in the morning. | Eu geralmente programo de manhã. |
+
+### B3. "Go to" + artigo (destino específico)
+
+| Inglês | Português |
+|---|---|
+| We like to go to the park. | Gostamos de ir ao parque. |
+| Let's go to the cinema tonight. | Vamos ao cinema hoje. |
+| I need to go to the airport. | Preciso ir ao aeroporto. |
+| She goes to work by bus. | Ela vai pro trabalho de ônibus. |
+
+### B4. "Under my name" para reservas
+
+| Inglês | Português |
+|---|---|
+| I have a reservation under my name. | Tenho uma reserva no meu nome. |
+| The account is under my name. | A conta está no meu nome. |
+| Is the table under your name? | A mesa está no seu nome? |
+| Everything is under the company's name. | Tudo está no nome da empresa. |
+
+### B5. "Located" (não "localized") para endereço
+
+"Localized" tem outro sentido técnico (localizar bug, traduzir app).
+
+| Inglês | Português |
+|---|---|
+| The hotel is located downtown. | O hotel fica localizado no centro. |
+| Our office is located on 5th Avenue. | Nosso escritório fica na 5ª Avenida. |
+| The store is located near the station. | A loja fica perto da estação. |
+| We localized the bug to the login module. | Localizamos o bug no módulo de login. |
+
+## C. Verbos — Tempos Fundamentais
+
+### C1. Presente simples — rotinas, fatos e características
+
+| Inglês | Português |
+|---|---|
+| I work as a backend developer. | Eu trabalho como desenvolvedor backend. |
+| We practice music every weekend. | Praticamos música todo fim de semana. |
+| This service handles all payment requests. | Esse serviço lida com as requisições de pagamento. |
+| My daughter plays the keyboard. | Minha filha toca teclado. |
+
+**Dica:** na 3ª pessoa (he/she/it), o verbo ganha "-s": she plays, the system handles.
+
+### C2. Comparativos: -er (curtos) vs. more (longos)
+
+| Inglês | Português |
+|---|---|
+| This solution is easier than the last one. | Essa solução é mais fácil que a última. |
+| The new version is faster. | A nova versão é mais rápida. |
+| This approach is more complex. | Essa abordagem é mais complexa. |
+| The second design is more efficient. | O segundo design é mais eficiente. |
+
+### C3. Passado simples para narrar eventos
 
 Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no passado — não só o primeiro verbo da frase.
 
@@ -18,7 +145,7 @@ Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no
 
 **Atenção:** repare na última frase — três verbos (*opened*, *checked*, *found*), os três no passado. Numa frase com "and" ou vírgulas encadeando ações, é comum lembrar de mudar só o primeiro verbo e esquecer o segundo/terceiro.
 
-**Atenção 2:** "using Dynatrace" na frase acima NÃO é passado — é gerúndio descrevendo COMO a ação aconteceu (equivalente a "by using Dynatrace", com o "by" implícito). É prima da regra explicada em A2.1 mais abaixo (preposição + gerúndio) — só que aqui a preposição fica subentendida.
+**Atenção 2:** "using Dynatrace" na frase acima NÃO é passado — é gerúndio descrevendo COMO a ação aconteceu (equivalente a "by using Dynatrace", com o "by" implícito). É prima da regra explicada em D2 mais adiante no documento (preposição + gerúndio) — só que aqui a preposição fica subentendida.
 
 **Dica:** muitos verbos comuns são irregulares (choose→chose, sing→sang, go→went) — revise aos poucos.
 
@@ -34,11 +161,53 @@ Quando você conta algo que já aconteceu, TODOS os verbos da história ficam no
 | Hobbies (música) | I practiced the drums for thirty minutes, recorded myself, and sent the video to my brother. | Pratiquei bateria por trinta minutos, me gravei, e mandei o vídeo pro meu irmão. |
 | Lazer | On Saturday, I woke up late, watched a movie with my family, and didn't check my phone once. | No sábado, acordei tarde, assisti a um filme com a família, e não olhei o celular nenhuma vez. |
 
-### A1.1 Verbos irregulares mais comuns para narrar 🆕 *11/ago/2026*
+### C4. As três estruturas de frase no passado
 
-Não tem lógica sonora pra deduzir aqui — é decoreba com repetição, e é o que mais trava uma narrativa corrida, porque toda frase no passado esbarra neles. A tabela agora traz as 4 formas de cada verbo — base, passado, particípio (pro Present Perfect da seção F3) e gerúndio (pro A2 e F2) — porque decorar as 4 juntas evita ter que voltar aqui toda vez que o tempo verbal muda.
+Aqui mora a pegadinha mais comum pra quem vem do português.
 
-Na coluna de nota, cada verbo tem um exemplo por tempo verbal (presente, passado, presente perfeito com o particípio, e presente contínuo com o gerúndio) — é o mesmo verbo passeando pelos tempos que você já estudou nas seções A1, F1, F2 e F3.
+| Tipo | Estrutura | Exemplo |
+|---|---|---|
+| Afirmativa | sujeito + verbo no passado | I worked yesterday. |
+| Negativa | sujeito + did not / didn't + verbo na BASE | I didn't work yesterday. |
+| Pergunta | Did + sujeito + verbo na BASE + ...? | Did you work yesterday? |
+
+**Atenção:** na negativa e na pergunta, o "did" já carrega a marcação de passado sozinho. Por isso o verbo principal volta pra forma base — sem o -ed/irregular. "I didn't worked" está errado, porque marca o passado duas vezes (no did E no verbo).
+
+**Quando usar:** normalmente vem com uma referência de tempo — yesterday, last week/month/year, in 2023, two days ago, when I was a kid.
+
+### C5. Presente contínuo — ação agora ou plano próximo
+
+| Inglês | Português |
+|---|---|
+| I'm testing the new version right now. | Estou testando a nova versão agora. |
+| We're discussing this in the meeting. | Estamos discutindo isso na reunião. |
+| I'm meeting the team tomorrow at 10. | Vou me encontrar com o time amanhã às 10h. |
+| She's learning to play drums. | Ela está aprendendo a tocar bateria. |
+
+### C6. Presente perfeito — conectando passado e presente
+
+Use "have/has" + particípio passado quando o efeito ainda importa agora.
+
+| Inglês | Português |
+|---|---|
+| I've fixed the memory leak. | Já corrigi o memory leak. |
+| We've deployed the new version. | Já lançamos a nova versão. |
+| I've never used this pattern before. | Nunca usei esse padrão antes. |
+| She has learned three songs on keyboard. | Ela já aprendeu três músicas. |
+
+**Dica:** "I fixed it yesterday" (foco no momento) vs. "I've fixed it" (foco no resultado atual).
+
+#### Regra de ouro: tempo fechado no passado → sempre Simple Past 🆕 *11/ago/2026*
+
+Toda vez que existe uma referência de tempo FECHADA (yesterday, last week, "then", uma data específica), quem manda é o Simple Past — o Present Perfect não combina com isso, mesmo que o resultado ainda importe hoje.
+
+> **Exemplo real seu:** ❌ "Now, we have presented to other leaders." → ✅ **"Then, we presented to other leaders."** (a referência "then" fecha o tempo — puxa Simple Past, não Present Perfect, mesmo a apresentação sendo recente e relevante.)
+
+### C7. Verbos irregulares mais comuns para narrar 🆕 *11/ago/2026*
+
+Não tem lógica sonora pra deduzir aqui — é decoreba com repetição, e é o que mais trava uma narrativa corrida, porque toda frase no passado esbarra neles. A tabela traz as 4 formas de cada verbo — base, passado, particípio (que você já viu em C6, Present Perfect) e gerúndio (que você já viu em C5, presente contínuo, e vai rever em D1) — porque decorar as 4 juntas evita ter que voltar aqui toda vez que o tempo verbal muda.
+
+Na coluna de nota, cada verbo tem um exemplo por tempo verbal (presente, passado, presente perfeito com o particípio, e presente contínuo com o gerúndio) — é o mesmo verbo passeando pelos tempos que você já estudou nas seções C1, C3, C5 e C6.
 
 | Base | Past Simple | Past Participle | Gerúndio (-ing) | Nota (um exemplo por tempo verbal) |
 |---|---|---|---|---|
@@ -60,21 +229,11 @@ Na coluna de nota, cada verbo tem um exemplo por tempo verbal (presente, passado
 | wake | woke | woken | waking | Pres: I wake up early on weekdays.<br>Past: I woke up late on Saturday.<br>Perfect: I've woken up before the alarm.<br>Contínuo: I'm waking up right now. |
 | sing | sang | sung | singing | Pres: I sing with my kids on weekends.<br>Past: I sang at the family party.<br>Perfect: I've sung this song before.<br>Contínuo: I'm singing along right now. |
 
-### A1.2 As três estruturas de frase no passado
+> **Exemplo real seu:** "I readed the documentation" está errado — "readed" é a lógica certa (base + ed) aplicada no verbo errado. O correto é **"I read the documentation yesterday."**
 
-Aqui mora a pegadinha mais comum pra quem vem do português.
+## D. Verbos + Gerúndio
 
-| Tipo | Estrutura | Exemplo |
-|---|---|---|
-| Afirmativa | sujeito + verbo no passado | I worked yesterday. |
-| Negativa | sujeito + did not / didn't + verbo na BASE | I didn't work yesterday. |
-| Pergunta | Did + sujeito + verbo na BASE + ...? | Did you work yesterday? |
-
-**Atenção:** na negativa e na pergunta, o "did" já carrega a marcação de passado sozinho. Por isso o verbo principal volta pra forma base — sem o -ed/irregular. "I didn't worked" está errado, porque marca o passado duas vezes (no did E no verbo).
-
-**Quando usar:** normalmente vem com uma referência de tempo — yesterday, last week/month/year, in 2023, two days ago, when I was a kid.
-
-### A2. Verbo como sujeito ou em comparações → gerúndio (-ing)
+### D1. Verbo como sujeito ou em comparações → gerúndio (-ing)
 
 Quando uma ação é o sujeito da frase, ou está sendo comparada a outra (depois de than/instead of), vira gerúndio.
 
@@ -91,14 +250,14 @@ Quando uma ação é o sujeito da frase, ou está sendo comparada a outra (depoi
 
 **Dica:** repare que "than" e "instead of" pedem gerúndio dos dois lados quando comparam ações — "instead of guessing" tem que ser gerúndio assim como "monitoring" é.
 
-### A2.1 Regra geral: depois de QUALQUER preposição, o verbo vai pro gerúndio 🆕
+### D2. Regra geral: depois de QUALQUER preposição, o verbo vai pro gerúndio 🆕
 
-"Instead of" (acima) é só um caso particular de uma regra bem mais ampla: depois de qualquer preposição (about, after, before, by, for, of, since, while, without...), o próximo verbo SEMPRE vai pro gerúndio — nunca pro infinitivo com "to". Essa regra já apareceu duas vezes no documento sem explicação:
+"Instead of" (acima) é só um caso particular de uma regra bem mais ampla: depois de qualquer preposição (about, after, before, by, for, of, since, while, without...), o próximo verbo SEMPRE vai pro gerúndio — nunca pro infinitivo com "to". Essa regra já apareceu no documento, e vai aparecer de novo mais adiante:
 
-| Onde já apareceu | Frase | Preposição + gerúndio |
+| Onde aparece | Frase | Preposição + gerúndio |
 |---|---|---|
-| A1, exemplo de História | ...while riding my bike... | while + riding |
-| E2 | The patterns are about separating logic. | about + separating |
+| C3, exemplo de História | ...while riding my bike... | while + riding |
+| G1 (mais adiante) | The patterns are about separating logic. | about + separating |
 
 Um exemplo pra cada preposição comum, pro seu contexto:
 
@@ -118,9 +277,9 @@ Um exemplo pra cada preposição comum, pro seu contexto:
 
 **Contraste com infinitivo:** "to fix" nunca vem colado direto numa preposição. "for to fix" está errado; "for fixing" está certo — a preposição "escolhe" o gerúndio, sempre.
 
-### A2.2 Cuidado: nem todo "to" é preposição — depois de certos adjetivos, "to" pede infinitivo 🆕
+### D3. Cuidado: nem todo "to" é preposição — depois de certos adjetivos, "to" pede infinitivo 🆕
 
-O "to" tem um papel duplo em inglês: às vezes é preposição (aí vale a regra de A2.1, gerúndio), às vezes é só o marcador de infinitivo (to + verbo na forma BASE). Depois de adjetivos como **able, ready, happy, hard, easy**, o "to" é infinitivo — nunca gerúndio.
+O "to" tem um papel duplo em inglês: às vezes é preposição (aí vale a regra de D2, gerúndio), às vezes é só o marcador de infinitivo (to + verbo na forma BASE). Depois de adjetivos como **able, ready, happy, hard, easy**, o "to" é infinitivo — nunca gerúndio.
 
 | Inglês | Português | Nota |
 |---|---|---|
@@ -133,18 +292,7 @@ O "to" tem um papel duplo em inglês: às vezes é preposição (aí vale a regr
 - "I'm looking forward **to** the weekend." → substantivo encaixa → preposição → gerúndio: "looking forward to seeing you."
 - "This tool is able **to** the weekend." ❌ → substantivo NÃO encaixa → infinitivo → base: "able to detect."
 
-### A3. "To be" para expressar idade
-
-Diferente do português ("ter" X anos), idade sempre usa o verbo "to be".
-
-| Inglês | Português |
-|---|---|
-| I'm 35 years old. | Eu tenho 35 anos. |
-| My daughter is 5. | Minha filha tem 5 anos. |
-| My son is 7. | Meu filho tem 7 anos. |
-| How old are you? | Quantos anos você tem? |
-
-### A4. "Like" como verbo (não precisa de "to be" junto)
+### D4. "Like" como verbo (não precisa de "to be" junto)
 
 "Like" já é um verbo completo sozinho — não use am/is/are antes dele.
 
@@ -155,11 +303,11 @@ Diferente do português ("ter" X anos), idade sempre usa o verbo "to be".
 | We like going to the park. | Gostamos de ir ao parque. |
 | Do you like this restaurant? | Você gosta desse restaurante? |
 
-**Atenção:** repare que "playing" e "going" estão no gerúndio, mas isso NÃO é a regra de A2 (verbo como sujeito/comparação) — "playing keyboard" e "going to the park" não são sujeito nem estão em comparação aqui. É uma regra diferente, explicada em A4.1 a seguir.
+**Atenção:** repare que "playing" e "going" estão no gerúndio, mas isso NÃO é a regra de D1 (verbo como sujeito/comparação) — "playing keyboard" e "going to the park" não são sujeito nem estão em comparação aqui. É uma regra diferente, explicada em D5 a seguir.
 
-### A4.1 Outros verbos que "puxam" o gerúndio (-ing) 🆕
+### D5. Outros verbos que "puxam" o gerúndio (-ing) 🆕
 
-Alguns verbos, principalmente os que expressam gosto, hábito ou preferência, são naturalmente seguidos pelo próximo verbo no gerúndio — o gatilho aqui é o verbo anterior, não a posição da ação na frase (essa é a diferença pra regra de A2).
+Alguns verbos, principalmente os que expressam gosto, hábito ou preferência, são naturalmente seguidos pelo próximo verbo no gerúndio — o gatilho aqui é o verbo anterior, não a posição da ação na frase (essa é a diferença pra regra de D1).
 
 | Verbo-gatilho | Inglês | Português |
 |---|---|---|
@@ -173,9 +321,9 @@ Alguns verbos, principalmente os que expressam gosto, hábito ou preferência, s
 
 **Sobre "like" especificamente:** ele aceita as duas formas — "I like playing" e "I like to play" — ambas corretas e com sentido bem parecido; o gerúndio soa mais natural quando você fala de gosto ou hábito geral. Já "enjoy", "avoid" e "keep" praticamente só aceitam gerúndio — "I enjoy to review" está errado, tem que ser "I enjoy reviewing".
 
-### A4.2 "Go" + gerúndio para atividades de lazer 🆕
+### D6. "Go" + gerúndio para atividades de lazer 🆕
 
-Pra atividades recreativas, o inglês usa um padrão fixo: **go + gerúndio**, sem "to" no meio. É um padrão diferente do A4.1 — aqui é sempre "go", e sempre um verbo específico de atividade.
+Pra atividades recreativas, o inglês usa um padrão fixo: **go + gerúndio**, sem "to" no meio. É um padrão diferente do D5 — aqui é sempre "go", e sempre um verbo específico de atividade.
 
 | Inglês | Português |
 |---|---|
@@ -188,7 +336,20 @@ Pra atividades recreativas, o inglês usa um padrão fixo: **go + gerúndio**, s
 
 > **Exemplo real seu:** ❌ "I go to travel with my wife." → ✅ **"I go traveling with my wife."** (ou, mais simples, sem o "go": "I travel with my wife.")
 
-### A5. "Need to" + verbo
+## E. Outros Padrões de Verbo
+
+### E1. "To be" para expressar idade
+
+Diferente do português ("ter" X anos), idade sempre usa o verbo "to be".
+
+| Inglês | Português |
+|---|---|
+| I'm 35 years old. | Eu tenho 35 anos. |
+| My daughter is 5. | Minha filha tem 5 anos. |
+| My son is 7. | Meu filho tem 7 anos. |
+| How old are you? | Quantos anos você tem? |
+
+### E2. "Need to" + verbo
 
 Depois de "need", sempre vem "to" antes do próximo verbo.
 
@@ -199,22 +360,9 @@ Depois de "need", sempre vem "to" antes do próximo verbo.
 | Do you need to check the logs? | Você precisa checar os logs? |
 | She needs to talk to the team. | Ela precisa falar com o time. |
 
-## B. Artigos, Plurais e Quantidade
+## F. Plurais, Números e Pronomes
 
-### B1. Artigos a / an / the
-
-"A/an" depende do SOM da palavra seguinte. "The" é para algo específico/conhecido; "a/an" para algo genérico.
-
-| Inglês | Português |
-|---|---|
-| I used a Java object. | Usei um objeto Java. (som de consoante) |
-| I waited an hour. | Esperei uma hora. (som de vogal) |
-| She used an LLM to generate the report. | Ela usou um LLM. ("el" = som de vogal) |
-| The number of bugs decreased this month. | O número de bugs diminuiu. (específico) |
-
-**Dica:** "another" é sempre uma palavra só — nunca "an other".
-
-### B2. Plurais irregulares comuns
+### F1. Plurais irregulares comuns
 
 | Inglês | Português |
 |---|---|
@@ -223,7 +371,7 @@ Depois de "need", sempre vem "to" antes do próximo verbo.
 | one man → two men | um homem → dois homens |
 | one woman → two women | uma mulher → duas mulheres |
 
-### B3. Números maiores que 1 não usam artigo
+### F2. Números maiores que 1 não usam artigo
 
 | Inglês | Português |
 |---|---|
@@ -232,99 +380,7 @@ Depois de "need", sempre vem "to" antes do próximo verbo.
 | There are five people in the meeting. | Tem cinco pessoas na reunião. |
 | I need ten minutes. | Preciso de dez minutos. |
 
-## C. Preposições Fixas
-
-### C0. A lógica espacial por trás das preposições 🆕
-
-Preposição é a palavra que diz onde uma coisa está **em relação** à outra — literalmente "pré-posição", posição relativa. A forma mais fácil de sentir isso é pensando em espaço físico: uma bola e uma caixa.
-
-| Relação física | Inglês | Português |
-|---|---|---|
-| Dentro de um espaço | The ball is in the box. | A bola está dentro da caixa. |
-| Em cima de uma superfície | The ball is on the table. | A bola está em cima da mesa. |
-| Abaixo de algo | The ball is under the chair. | A bola está debaixo da cadeira. |
-| Ao lado de algo | The ball is next to the door. | A bola está do lado da porta. |
-| Um ponto exato, sem volume | Meet me at the entrance. | Me encontra na entrada. |
-
-O inglês pega essa MESMA lógica espacial e estica pra situações que não são fisicamente espaço nenhum — é aí que mora o padrão que mais confunde brasileiro, porque em português a gente usa "em" pra quase tudo ("em 2022", "na segunda", "no escritório") e o inglês obriga a escolher qual tipo de relação espacial é essa:
-
-| Extensão da lógica | Inglês | Português | Por quê |
-|---|---|---|---|
-| Ano/período grande → *in* (espaço contido) | I joined the team in 2022. | Entrei no time em 2022. | O ano é tratado como um espaço grande — você está "dentro" dele, igual "in the box". |
-| Mês → *in* | We're launching in December. | Vamos lançar em dezembro. | Mesmo raciocínio do ano. |
-| Dia específico → *on* (superfície) | I have a meeting on Monday. | Tenho uma reunião na segunda. | O dia é tratado como uma superfície — igual "on the table" (ver C2 logo abaixo). |
-| Data completa → *on* | The release is on July 10th. | O lançamento é dia 10 de julho. | Mesma lógica de superfície do dia. |
-| Horário exato → *at* (ponto) | The standup is at 9am. | A daily é às 9h. | Hora exata = ponto sem volume, igual "at the entrance". |
-| Assunto → *about* (em volta) | We talked about the migration. | Falamos sobre a migração. | "About" é literalmente "em torno de", rodeando o assunto. |
-| Meio/instrumento → *by* (através de) | I fixed it by restarting the pod. | Corrigi reiniciando o pod. | "By" indica o caminho/meio usado pra chegar no resultado. |
-| Direção/destino → *to* (rumo a) | We're moving to a new architecture. | Estamos migrando pra uma nova arquitetura. | "To" indica movimento em direção a um ponto. |
-
-**Dica prática — o trio que mais confunde (in / on / at):**
-- **in** = espaço grande e contido → ano, mês, cidade, país, cluster ("in 2022", "in Kubernetes")
-- **on** = superfície ou dia específico → mesa, tela, segunda-feira, data ("on the screen", "on Monday")
-- **at** = ponto exato, sem volume → hora, endereço específico, evento ("at 9am", "at the office")
-
-Guardando essa ideia — "espaço grande" vs. "superfície" vs. "ponto exato" — fica mais fácil escolher a preposição certa sem decorar frase por frase. As regras de C1 a C5 abaixo são casos específicos dessa mesma lógica.
-
-### C1. Preposições que "grudam" em certos verbos
-
-| Inglês | Português |
-|---|---|
-| This module focuses on performance. | Esse módulo foca em performance. |
-| These changes apply to the whole system. | Essas mudanças se aplicam a todo o sistema. |
-| I'm responsible for the backend team. | Sou responsável pelo time de backend. |
-| This is similar to the previous version. | Isso é parecido com a versão anterior. |
-
-### C2. "On" para dias e períodos recorrentes
-
-| Inglês | Português |
-|---|---|
-| We practice music on weekends. | Praticamos música nos fins de semana. |
-| I have a meeting on Monday. | Tenho uma reunião na segunda. |
-| It happens on holidays too. | Acontece nos feriados também. |
-| I usually code in the morning. | Eu geralmente programo de manhã. |
-
-### C3. "Go to" + artigo (destino específico)
-
-| Inglês | Português |
-|---|---|
-| We like to go to the park. | Gostamos de ir ao parque. |
-| Let's go to the cinema tonight. | Vamos ao cinema hoje. |
-| I need to go to the airport. | Preciso ir ao aeroporto. |
-| She goes to work by bus. | Ela vai pro trabalho de ônibus. |
-
-### C4. "Under my name" para reservas
-
-| Inglês | Português |
-|---|---|
-| I have a reservation under my name. | Tenho uma reserva no meu nome. |
-| The account is under my name. | A conta está no meu nome. |
-| Is the table under your name? | A mesa está no seu nome? |
-| Everything is under the company's name. | Tudo está no nome da empresa. |
-
-### C5. "Located" (não "localized") para endereço
-
-"Localized" tem outro sentido técnico (localizar bug, traduzir app).
-
-| Inglês | Português |
-|---|---|
-| The hotel is located downtown. | O hotel fica localizado no centro. |
-| Our office is located on 5th Avenue. | Nosso escritório fica na 5ª Avenida. |
-| The store is located near the station. | A loja fica perto da estação. |
-| We localized the bug to the login module. | Localizamos o bug no módulo de login. |
-
-## D. Estrutura de Frase
-
-### D1. Sujeito explícito é obrigatório
-
-| Inglês | Português |
-|---|---|
-| It's my first time here. | É minha primeira vez aqui. |
-| It's raining today. | Está chovendo hoje. |
-| It's important to test this. | É importante testar isso. |
-| There are four of us at home. | Somos quatro em casa. |
-
-### D2. "What" vs. "How" para perguntas
+### F3. "What" vs. "How" para perguntas
 
 | Inglês | Português |
 |---|---|
@@ -333,7 +389,7 @@ Guardando essa ideia — "espaço grande" vs. "superfície" vs. "ponto exato" �
 | How does this pattern work? | Como esse padrão funciona? |
 | How long will it take? | Quanto tempo vai levar? |
 
-### D3. Pronomes em listas: "me" como objeto, e ordem educada
+### F4. Pronomes em listas: "me" como objeto, e ordem educada
 
 | Inglês | Português |
 |---|---|
@@ -342,7 +398,7 @@ Guardando essa ideia — "espaço grande" vs. "superfície" vs. "ponto exato" �
 | He gave the report to Sarah and me. | Ele deu o relatório pra Sarah e pra mim. |
 | Between you and me, this was a great idea. | Só entre nós, isso foi uma ótima ideia. |
 
-### D4. Pronomes relativos: who / which / that 🆕
+### F5. Pronomes relativos: who / which / that 🆕
 
 Pra descrever ou dar mais informação sobre algo já citado, sem começar uma frase nova, use um pronome relativo — a escolha depende se você está falando de **pessoa** ou de **coisa**.
 
@@ -354,18 +410,9 @@ Pra descrever ou dar mais informação sobre algo já citado, sem começar uma f
 
 **Atenção:** "with" não é pronome relativo, é preposição — não dá pra usar "with" no lugar de "which/that" pra introduzir uma explicação sobre uma coisa. ❌ "a framework with is able to..." → ✅ "a framework **which** is able to..."
 
-## E. Comparações e Concordância Verbal
+## G. Concordância e Nuances
 
-### E1. Comparativos: -er (curtos) vs. more (longos)
-
-| Inglês | Português |
-|---|---|
-| This solution is easier than the last one. | Essa solução é mais fácil que a última. |
-| The new version is faster. | A nova versão é mais rápida. |
-| This approach is more complex. | Essa abordagem é mais complexa. |
-| The second design is more efficient. | O segundo design é mais eficiente. |
-
-### E2. Concordância com "each" e sujeitos plurais
+### G1. Concordância com "each" e sujeitos plurais
 
 | Inglês | Português |
 |---|---|
@@ -374,7 +421,7 @@ Pra descrever ou dar mais informação sobre algo já citado, sem começar uma f
 | The patterns are about separating logic. | Os padrões são sobre separar a lógica. |
 | These changes affect the whole system. | Essas mudanças afetam todo o sistema. |
 
-### E3. Substantivo vs. Verbo — pares que mudam de forma
+### G2. Substantivo vs. Verbo — pares que mudam de forma
 
 | Inglês | Português |
 |---|---|
@@ -382,7 +429,7 @@ Pra descrever ou dar mais informação sobre algo já citado, sem começar uma f
 | Noun: a great discovery. / Verb: I discovered the bug. | Substantivo: descoberta. / Verbo: descobri. |
 | Noun: a product warranty. / Verb: this guarantees quality. | Substantivo: garantia. / Verbo: garante. |
 
-### E4. Adjetivo vs. Advérbio (good vs. well) 🆕 *11/ago/2026*
+### G3. Adjetivo vs. Advérbio (good vs. well) 🆕 *11/ago/2026*
 
 Verbo pede advérbio, não adjetivo. "Good" descreve uma coisa; "well" descreve como uma ação aconteceu.
 
@@ -393,48 +440,9 @@ Verbo pede advérbio, não adjetivo. "Good" descreve uma coisa; "well" descreve 
 
 > **Exemplo real seu:** ❌ "My boss reacted very good." → ✅ **"My boss reacted very well."**
 
-## F. Presente e Futuro — Para Narrativas Completas
+## H. Futuro
 
-### F1. Presente simples — rotinas, fatos e características
-
-| Inglês | Português |
-|---|---|
-| I work as a backend developer. | Eu trabalho como desenvolvedor backend. |
-| We practice music every weekend. | Praticamos música todo fim de semana. |
-| This service handles all payment requests. | Esse serviço lida com as requisições de pagamento. |
-| My daughter plays the keyboard. | Minha filha toca teclado. |
-
-**Dica:** na 3ª pessoa (he/she/it), o verbo ganha "-s": she plays, the system handles.
-
-### F2. Presente contínuo — ação agora ou plano próximo
-
-| Inglês | Português |
-|---|---|
-| I'm testing the new version right now. | Estou testando a nova versão agora. |
-| We're discussing this in the meeting. | Estamos discutindo isso na reunião. |
-| I'm meeting the team tomorrow at 10. | Vou me encontrar com o time amanhã às 10h. |
-| She's learning to play drums. | Ela está aprendendo a tocar bateria. |
-
-### F3. Presente perfeito — conectando passado e presente
-
-Use "have/has" + particípio passado quando o efeito ainda importa agora.
-
-| Inglês | Português |
-|---|---|
-| I've fixed the memory leak. | Já corrigi o memory leak. |
-| We've deployed the new version. | Já lançamos a nova versão. |
-| I've never used this pattern before. | Nunca usei esse padrão antes. |
-| She has learned three songs on keyboard. | Ela já aprendeu três músicas. |
-
-**Dica:** "I fixed it yesterday" (foco no momento) vs. "I've fixed it" (foco no resultado atual).
-
-#### Regra de ouro: tempo fechado no passado → sempre Simple Past 🆕 *11/ago/2026*
-
-Toda vez que existe uma referência de tempo FECHADA (yesterday, last week, "then", uma data específica), quem manda é o Simple Past — o Present Perfect não combina com isso, mesmo que o resultado ainda importe hoje.
-
-> **Exemplo real seu:** ❌ "Now, we have presented to other leaders." → ✅ **"Then, we presented to other leaders."** (a referência "then" fecha o tempo — puxa Simple Past, não Present Perfect, mesmo a apresentação sendo recente e relevante.)
-
-### F4. Futuro com "will" — decisões espontâneas e previsões
+### H1. Futuro com "will" — decisões espontâneas e previsões
 
 | Inglês | Português |
 |---|---|
@@ -443,7 +451,7 @@ Toda vez que existe uma referência de tempo FECHADA (yesterday, last week, "the
 | I'll help you with that. | Eu te ajudo com isso. |
 | It will be a great feature. | Vai ser uma ótima funcionalidade. |
 
-### F5. Futuro com "going to" — planos já decididos
+### H2. Futuro com "going to" — planos já decididos
 
 | Inglês | Português |
 |---|---|
@@ -452,7 +460,7 @@ Toda vez que existe uma referência de tempo FECHADA (yesterday, last week, "the
 | They're going to migrate the database. | Eles vão migrar o banco de dados. |
 | Are you going to join the meeting? | Você vai participar da reunião? |
 
-### F6. Combinando tempos verbais numa narrativa rica
+### H3. Combinando tempos verbais numa narrativa rica
 
 Uma boa narrativa mistura passado, presente e futuro — treine mini-histórias de 4 frases assim.
 
