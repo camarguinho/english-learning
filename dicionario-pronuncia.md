@@ -13,6 +13,18 @@ Este é um documento vivo. A ideia é crescer sessão após sessão: sempre que 
 
 **Lembrete geral:** consoante final normalmente corta seca, sem vogal depois — evite grudar um "i" ou "e" no final das palavras.
 
+## Regra: pronúncia do "-ed" no passado 🆕
+
+O "-ed" do passado/particípio tem 3 sons possíveis, dependendo do SOM final do verbo na base (não da letra) — e só em UM desses casos ele vira sílaba extra.
+
+| Som final do verbo | Som do "-ed" | Vira sílaba extra? | Exemplos |
+|---|---|---|---|
+| Surdo (p, k, f, s, sh, ch) | **T** | Não — gruda na palavra | walked (uóquT), watched (uátchT), checked (tchéquT), helped (rrélpT) |
+| Sonoro (b, g, v, z, m, n, l, r, vogal) | **D** | Não — gruda na palavra | joined (djóind), played (pléid), opened (ôupând), deployed (di-plóid) |
+| Já termina em T ou D | **id** | **Sim** — única exceção | wanted (uán-tid), needed (ní-did), decided (di-sái-did) |
+
+**Truque rápido:** só vira sílaba extra quando a base já termina em som de T ou D. Nos outros casos (a grande maioria), o "-ed" é sempre T ou D grudado ao final da palavra, sem sílaba nova — "joined" é **djóind**, uma sílaba só, nunca "djoin-éd".
+
 ## Trabalho & Tecnologia
 
 | Palavra | Pronúncia | IPA | Dica |
