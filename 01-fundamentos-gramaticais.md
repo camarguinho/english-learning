@@ -1,6 +1,8 @@
 # Parte I — Fundamentos Gramaticais
 
-[⬅ Voltar ao Sumário](README.md)
+<!-- nav:start -->
+[← Anterior: Parte 0 — Plano de Fluência e Como Usar Este Guia](00-plano-de-fluencia.md) | [↑ Sumário](README.md) | [Próximo: Parte II — Novos Alicerces →](02-novos-alicerces.md)
+<!-- nav:end -->
 
 > **Nota de reorganização:** este documento foi reordenado pra seguir uma sequência de dependências — cada tópico agora vem DEPOIS de tudo que ele usa como pré-requisito (ex.: preposições antes de qualquer regra que precise delas; presente/passado/contínuo/perfeito antes da tabela de irregulares que combina os quatro). Se você guardou algum link antigo pro formato A1/B2/C3, os números mudaram — use o sumário abaixo pra se situar.
 
@@ -470,3 +472,9 @@ Uma boa narrativa mistura passado, presente e futuro — treine mini-histórias 
 | I've already fixed it. | Já corrigi. (presente perfeito) |
 | I'm testing the fix right now. | Estou testando agora. (presente contínuo) |
 | I'm going to deploy it tomorrow morning. | Vou lançar amanhã. (futuro) |
+
+---
+
+<!-- nav:start -->
+[← Anterior: Parte 0 — Plano de Fluência e Como Usar Este Guia](00-plano-de-fluencia.md) | [↑ Sumário](README.md) | [Próximo: Parte II — Novos Alicerces →](02-novos-alicerces.md)
+<!-- nav:end -->

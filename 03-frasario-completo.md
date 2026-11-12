@@ -1,6 +1,8 @@
 # Parte III — Frasário Completo
 
-[⬅ Voltar ao Sumário](README.md)
+<!-- nav:start -->
+[← Anterior: Parte II — Novos Alicerces](02-novos-alicerces.md) | [↑ Sumário](README.md) | [Próximo: Parte IV — Situações Inesperadas →](04-situacoes-inesperadas.md)
+<!-- nav:end -->
 
 ## Cotidiano e Viagem
 
@@ -237,3 +239,9 @@ escrita completa ("going to", "want to").
 > Pra treinar o ouvido nessas reduções com áudio real (recomendado): busque
 > qualquer uma dessas frases no Forvo.com ou no YouGlish.com, que mostra a
 > frase sendo usada em vídeos reais.
+
+---
+
+<!-- nav:start -->
+[← Anterior: Parte II — Novos Alicerces](02-novos-alicerces.md) | [↑ Sumário](README.md) | [Próximo: Parte IV — Situações Inesperadas →](04-situacoes-inesperadas.md)
+<!-- nav:end -->

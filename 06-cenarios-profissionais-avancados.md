@@ -1,6 +1,8 @@
 # Parte VI — Cenários Profissionais Avançados
 
-[⬅ Voltar ao Sumário](README.md)
+<!-- nav:start -->
+[← Anterior: Parte V — Números, Datas e Horas](05-numeros-datas-horas.md) | [↑ Sumário](README.md) | [Próximo: Dicionário de Pronúncia — Camargo →](dicionario-pronuncia.md)
+<!-- nav:end -->
 
 ## Conduzindo uma Apresentação em PowerPoint
 
@@ -139,3 +141,9 @@ Situation (situação) → Task (tarefa) → Action (o que você fez) → Result
 | We'll follow up within a week with next steps. | Vamos retornar em uma semana com os próximos passos. |
 | It was great learning about your experience. | Foi ótimo conhecer mais sobre sua experiência. |
 | Thanks again for your time today. | Obrigado novamente pelo seu tempo hoje. |
+
+---
+
+<!-- nav:start -->
+[← Anterior: Parte V — Números, Datas e Horas](05-numeros-datas-horas.md) | [↑ Sumário](README.md) | [Próximo: Dicionário de Pronúncia — Camargo →](dicionario-pronuncia.md)
+<!-- nav:end -->

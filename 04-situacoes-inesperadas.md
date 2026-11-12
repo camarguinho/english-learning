@@ -1,6 +1,8 @@
 # Parte IV — Situações Inesperadas
 
-[⬅ Voltar ao Sumário](README.md)
+<!-- nav:start -->
+[← Anterior: Parte III — Frasário Completo](03-frasario-completo.md) | [↑ Sumário](README.md) | [Próximo: Parte V — Números, Datas e Horas →](05-numeros-datas-horas.md)
+<!-- nav:end -->
 
 ## Padrões úteis para imprevistos
 
@@ -59,3 +61,9 @@
 | It gets busy around lunchtime. | Fica cheio perto do horário de almoço. |
 | This is quite expensive. / It's pretty cheap around here. | Isso é bem caro. / É bem baratinho por aqui. |
 | That's a good deal. / It's overpriced. | Isso é um bom negócio. / Está com preço abusivo. |
+
+---
+
+<!-- nav:start -->
+[← Anterior: Parte III — Frasário Completo](03-frasario-completo.md) | [↑ Sumário](README.md) | [Próximo: Parte V — Números, Datas e Horas →](05-numeros-datas-horas.md)
+<!-- nav:end -->

@@ -1,6 +1,8 @@
 # Parte II — Novos Alicerces
 
-[⬅ Voltar ao Sumário](README.md)
+<!-- nav:start -->
+[← Anterior: Parte I — Fundamentos Gramaticais](01-fundamentos-gramaticais.md) | [↑ Sumário](README.md) | [Próximo: Parte III — Frasário Completo →](03-frasario-completo.md)
+<!-- nav:end -->
 
 ## G. Pronúncia e Entonação
 
@@ -221,3 +223,9 @@ If + passado, would + verbo. Usado pra situações hipotéticas, improváveis ou
 > **Dica — "eventually" é uma pegadinha clássica em post-mortem:** "We eventually found the root cause" = "No fim das contas, encontramos a causa raiz" (depois de um processo). Não é "eventualmente" no sentido de "às vezes" — pra isso, use "occasionally" ou "sometimes".
 >
 > **Bônus — pronome:** cuidado com "yours" quando a tarefa não é sua. "I took over yours tasks" aponta a tarefa pra mim; se é do colega, o certo é **"I took over their tasks."** O inglês marca de quem é a coisa de um jeito mais explícito que o "seu/sua" do português, que serve pra qualquer pessoa.
+
+---
+
+<!-- nav:start -->
+[← Anterior: Parte I — Fundamentos Gramaticais](01-fundamentos-gramaticais.md) | [↑ Sumário](README.md) | [Próximo: Parte III — Frasário Completo →](03-frasario-completo.md)
+<!-- nav:end -->

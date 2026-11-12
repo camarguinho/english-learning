@@ -1,6 +1,8 @@
 # Parte V — Números, Datas e Horas
 
-[⬅ Voltar ao Sumário](README.md)
+<!-- nav:start -->
+[← Anterior: Parte IV — Situações Inesperadas](04-situacoes-inesperadas.md) | [↑ Sumário](README.md) | [Próximo: Parte VI — Cenários Profissionais Avançados →](06-cenarios-profissionais-avancados.md)
+<!-- nav:end -->
 
 ## Números compostos e grandes
 
@@ -45,3 +47,9 @@ Meses e dias são sempre com letra maiúscula em inglês. Horas começam com "it
 | There are many people here. / Several examples. | Tem muita gente aqui. / Vários exemplos. |
 | Dozens of options. / Hundreds of people. | Dezenas de opções. / Centenas de pessoas. |
 | It increased by twenty percent. | Aumentou vinte por cento. |
+
+---
+
+<!-- nav:start -->
+[← Anterior: Parte IV — Situações Inesperadas](04-situacoes-inesperadas.md) | [↑ Sumário](README.md) | [Próximo: Parte VI — Cenários Profissionais Avançados →](06-cenarios-profissionais-avancados.md)
+<!-- nav:end -->

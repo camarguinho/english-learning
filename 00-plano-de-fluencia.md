@@ -1,6 +1,8 @@
 # Parte 0 — Plano de Fluência e Como Usar Este Guia
 
-[⬅ Voltar ao Sumário](README.md)
+<!-- nav:start -->
+[↑ Sumário](README.md) | [Próximo: Parte I — Fundamentos Gramaticais →](01-fundamentos-gramaticais.md)
+<!-- nav:end -->
 
 ## Estimativa realista (praticando ~1h/dia)
 
@@ -18,3 +20,9 @@
 - Reserve o fim de semana para reforçar pontos específicos onde sentir mais dificuldade (tração, não velocidade).
 - Pratique narrativas completas (ver tópico F6) regularmente — é o exercício que mais destrava fala natural.
 - Complemente com escuta passiva (séries, podcasts, música) fora do tempo de estudo ativo.
+
+---
+
+<!-- nav:start -->
+[↑ Sumário](README.md) | [Próximo: Parte I — Fundamentos Gramaticais →](01-fundamentos-gramaticais.md)
+<!-- nav:end -->

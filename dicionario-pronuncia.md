@@ -1,6 +1,8 @@
 # Dicionário de Pronúncia — Camargo
 
-[⬅ Voltar ao Sumário](README.md)
+<!-- nav:start -->
+[← Anterior: Parte VI — Cenários Profissionais Avançados](06-cenarios-profissionais-avancados.md) | [↑ Sumário](README.md)
+<!-- nav:end -->
 
 Vocabulário de trabalho, música e vida cotidiana. Versão 1 · 23 de julho de 2026 (migrado para markdown em 11 de agosto de 2026).
 
@@ -113,3 +115,9 @@ Este é um documento vivo. A ideia é crescer sessão após sessão: sempre que 
 | cook | KUK | /kʊk/ | — |
 
 **Total nesta versão:** 74 palavras. Para ouvir a pronúncia real (recomendado sempre que possível): Forvo.com ou dictionary.cambridge.org.
+
+---
+
+<!-- nav:start -->
+[← Anterior: Parte VI — Cenários Profissionais Avançados](06-cenarios-profissionais-avancados.md) | [↑ Sumário](README.md)
+<!-- nav:end -->
